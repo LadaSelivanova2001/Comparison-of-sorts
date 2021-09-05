@@ -9,6 +9,6 @@
 По полученным данным построены графики зависимости времени сортировки от размерности массива для каждого из алгоритмов сортировки на одной оси координат.
 
 ![](images/Общий%20график.png)
-<img src="images/SelectionSort.png" height=150 > <img src="images/InclusionSort.png" height=150 > <img src="images/QuickSort.png" height=150 >
+<img src="images/SelectionSort.png" height=130 > <img src="images/InclusionSort.png" height=130 > <img src="images/QuickSort.png" height=130 >
 
 
